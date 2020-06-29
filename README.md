@@ -5,8 +5,11 @@ Records are stored in local storage.
 
 Tools used-HTML,CSS, Javascript
 
-**Sample Image**
+**Sample Images-**
 
+**Add a Subscriber**
 ![Preview Image](https://github.com/apurva19/phone-dir/blob/master/Sample%20Images/Add%20a%20Subscriber.png)
 
+
+**Subscribers List**
 ![Preview Image](https://github.com/apurva19/phone-dir/blob/master/Sample%20Images/Subscribers%20list.png)
